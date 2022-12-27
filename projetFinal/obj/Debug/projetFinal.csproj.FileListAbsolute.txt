@@ -1,0 +1,6 @@
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\bin\Debug\projetFinal.exe.config
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\bin\Debug\projetFinal.exe
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\bin\Debug\projetFinal.pdb
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\obj\Debug\projetFinal.csprojAssemblyReference.cache
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\obj\Debug\projetFinal.exe
+C:\Users\kckel\Documents\A1 STI2D\projet info\C#\projetFinal\projetFinal\obj\Debug\projetFinal.pdb
